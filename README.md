@@ -6,7 +6,6 @@
 - Desde tu carpeta principal (`~/`), crea un directorio llamado `GitApellido1Nombre2425`.
 - Dentro del directorio `GitApellido1Nombre2425`, crea una subcarpeta llamada `src` usando rutas relativas.
 - Crea un archivo `README.md` en `GitApellido1Nombre2425` con una breve descripción del proyecto, usa constantemente el terminal.
-![Ex1](../M08-P3/img/P1_ex1.1.png)
 
 ### 2. Inicializa Git:
 - Entra en el directorio y conviértelo en un repositorio Git.
